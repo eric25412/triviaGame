@@ -1,0 +1,32 @@
+body{
+    background-image: url("images.jpg");
+    color: coral;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+#subwrapper{
+    font-size:40px;
+    text-align: center;
+    color:rgb(236, 39, 25);
+    font-weight: bold;
+}
+.timer{
+    font-size: 30px;
+    text-align: center;
+}
+
+button{
+    text-align: center;
+    padding:30px 50px;
+    margin-top: 40px;
+    margin-left: 700px;
+}
+#quiz{
+    color: red;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+}
